@@ -1,0 +1,11 @@
+day="$(date +"%A")"
+date="$(date +"%d")"
+month="$(date +"%h")"
+year="$(date +"%Y")"
+time="$(date +"%T")"
+
+echo "Day : $day"
+echo "Date : $date"
+echo "Month : $month"
+echo "Year : $year"
+echo "Time : $time"
